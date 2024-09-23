@@ -44,6 +44,12 @@ body{
    margin: 100px auto;
 }
 
+.attribution{
+   width: 100%;
+   text-align: center;
+   padding-bottom: 2em;
+}
+
 nav{
    position: relative;
    display: flex;
